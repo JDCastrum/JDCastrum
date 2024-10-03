@@ -10,6 +10,7 @@ I’m passionate about leveraging AI to unlock new ways of learning and teaching
 ![AI Learning Image](https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true)
 ---
 
+
 ## 📘 **Areas of Interest**:
 - **AI in Education** 🎓
 - **Prompt Engineering** 💻
