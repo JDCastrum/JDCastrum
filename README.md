@@ -1,4 +1,10 @@
-![AI Learning Image](https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true)
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true" alt="Descripción de la imagen" style="width: 300px; margin-right: 20px;" />
+    <p>
+        Aquí escribes el texto que quieres que aparezca a la derecha de la imagen. Este texto se alineará al lado de la imagen, y seguirá después del ancho de la imagen.
+    </p>
+</div>
+
 
 # 💡 **Passionate Learner Exploring AI and Education** 💡
 
