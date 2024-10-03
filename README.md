@@ -1,3 +1,5 @@
+![AI Learning Image](https://example.com/your-image-url.jpg)
+
 # 💡 **Passionate Learner Exploring AI and Education** 💡
 
 As a psychologist with a deep interest in **learning** and **pedagogy**, I'm excited by the endless possibilities that **AI tools** offer. Currently, I’m diving into **prompt engineering** 🤖 and exploring how these technologies can enhance our understanding of education.
