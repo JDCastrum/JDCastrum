@@ -1,6 +1,7 @@
  # 💡 **Passionate Learner Exploring AI and Education** 💡
 
-As a psychologist with a deep interest in **learning** and **pedagogy**, I'm excited by the endless possibilities that **AI tools** offer. Currently, I’m diving into **prompt engineering** 🤖 and exploring how these technologies can enhance our understanding of education.
+As a [psychologist](https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia.jpg?raw=true)
+psychologist with a deep interest in **learning** and **pedagogy**, I'm excited by the endless possibilities that **AI tools** offer. Currently, I’m diving into **prompt engineering** 🤖 and exploring how these technologies can enhance our understanding of education.
 
 > 🔍 **My Focus**: Understanding how **AI** will reshape the learning landscape—not to replace traditional education, but to **amplify** it. 🧠💡
 
