@@ -1,9 +1,8 @@
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true" alt="Descripción de la imagen" style="width: 300px; margin-right: 20px;" />
     <p>
-        
-    </p>
 </div>
+
         # 💡 **Passionate Learner Exploring AI and Education** 💡
 
 As a psychologist with a deep interest in **learning** and **pedagogy**, I'm excited by the endless possibilities that **AI tools** offer. Currently, I’m diving into **prompt engineering** 🤖 and exploring how these technologies can enhance our understanding of education.
