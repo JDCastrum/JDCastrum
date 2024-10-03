@@ -1,10 +1,18 @@
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true" alt="Descripción de la imagen" style="width: 300px; margin-right: 20px;" />
     <p>
-        Aquí escribes el texto que quieres que aparezca a la derecha de la imagen. Este texto se alineará al lado de la imagen, y seguirá después del ancho de la imagen.
+        # 💡 **Passionate Learner Exploring AI and Education** 💡
+
+As a psychologist with a deep interest in **learning** and **pedagogy**, I'm excited by the endless possibilities that **AI tools** offer. Currently, I’m diving into **prompt engineering** 🤖 and exploring how these technologies can enhance our understanding of education.
+
+> 🔍 **My Focus**: Understanding how **AI** will reshape the learning landscape—not to replace traditional education, but to **amplify** it. 🧠💡
+
+I’m passionate about leveraging AI to unlock new ways of learning and teaching, ensuring that **the human element** stays central to the process. 
+
     </p>
 </div>
 
+---
 
 # 💡 **Passionate Learner Exploring AI and Education** 💡
 
