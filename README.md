@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true" alt="AI Learning" style="width: 200px; margin-right: 20px;">
+      <img src="https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true" alt="AI Learning" style="width: 500px; margin-right: 20px;">
     </td>
     <td>
 # 💡 **Passionate Learner Exploring AI and Education** 💡
