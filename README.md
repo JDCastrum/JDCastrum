@@ -17,6 +17,8 @@ I’m passionate about leveraging AI to unlock new ways of learning and teaching
 - **Future of Learning** 🚀
 
 ---
+![AI Learning Image](https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner.jpg?raw=true)
+---
 
 ## 🌍 **Shaping the Future of Education with AI** 🌍
 
