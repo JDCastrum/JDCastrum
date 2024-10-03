@@ -1,4 +1,4 @@
-![AI Learning Image](https://example.com/your-image-url.jpg)
+![AI Learning Image](https://github.com/JDCastrum/JDCastrum/blob/main/Images/baner%20ia%202.jpg?raw=true)
 
 # 💡 **Passionate Learner Exploring AI and Education** 💡
 
